@@ -1,4 +1,2 @@
-# ignore captured images
-*.png
-# macOS Finder files
+*.png # don’t version your screenshots
 .DS_Store
