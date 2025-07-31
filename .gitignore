@@ -1,0 +1,4 @@
+# ignore captured images
+*.png
+# macOS Finder files
+.DS_Store
