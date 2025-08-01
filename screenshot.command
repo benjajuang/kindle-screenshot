@@ -1,5 +1,5 @@
 #!/bin/bash
-
+cd "$(dirname "$0")"
 # Kindle 視窗截圖腳本 (macOS Kindle App 專用)
 # 更新：自動使用 $HOME，並允許自訂輸出資料夾
 
